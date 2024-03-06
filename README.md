@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for **internship or job opportunities**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/zhuohaotan](www.linkedin.com/in/zhuohaotan)
+- 👨‍💻 All of my experience are at [www.linkedin.com/in/zhuohaotan](www.linkedin.com/in/zhuohaotan)
 
 - 💬 Ask me about **Anything**
 

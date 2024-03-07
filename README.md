@@ -7,11 +7,11 @@
 
 - 🤝 I’m looking for **internship or job opportunities**
 
-- 👨‍💻 All of my experience are at [www.linkedin.com/in/zhuohaotan](www.linkedin.com/in/zhuohaotan)
-
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **ZhuohaoTan@outlook.com**
+
+
 
 
 👨‍💻 About Me:

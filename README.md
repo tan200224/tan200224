@@ -13,6 +13,23 @@
 
 - 📫 How to reach me **ZhuohaoTan@outlook.com**
 
+
+👨‍💻 About Me:
+
+A Computer Science enthusiast with a passion for applying cutting-edge technology to solve real-world problems. My journey in tech started from a fascination with science fiction and a dream to make a tangible impact on the world through innovation. Today, I'm channeling that passion into pioneering research focused on leveraging AI and machine learning to revolutionize healthcare.
+
+🔬 Current Work:
+
+I'm currently involved in a groundbreaking project aimed at improving the early diagnosis of pancreatic cancer through the generation of synthetic medical images. This work combines my skills in Python, machine learning, and data science to address the challenges posed by data scarcity and bias in medical datasets. By developing advanced models using Generative Adversarial Networks (GANs), I aim to enhance the accuracy and reliability of early-stage cancer detection.
+
+📚 Learning & Development:
+
+I'm a lifelong learner, constantly expanding my knowledge base through coursework and certifications in areas like machine learning, computer vision, and AI ethics. I've had the privilege of learning from renowned institutions such as Carnegie Mellon University and participating in specialized courses offered on Coursera.
+
+🤝 Looking to Collaborate:
+
+I'm always on the lookout for opportunities to collaborate with fellow researchers, developers, and innovators passionate about using technology to improve healthcare outcomes. If you're working on something where my expertise in AI, machine learning, or synthetic data generation can contribute, let's connect!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zhuohaotan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhuohaotan" height="30" width="40" /></a>
